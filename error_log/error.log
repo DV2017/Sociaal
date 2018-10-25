@@ -1,0 +1,83 @@
+
+[11-Mar-2018 09:05:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function in_arrays() in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php:33
+Stack trace:
+#0 {main}
+  thrown in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 33
+[11-Mar-2018 09:06:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/index.php on line 8
+[11-Mar-2018 09:06:43 UTC] PHP Warning:  Division by zero in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/index.php on line 9
+[11-Mar-2018 09:06:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/index.php on line 8
+[11-Mar-2018 09:06:43 UTC] PHP Warning:  Division by zero in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/index.php on line 9
+[11-Mar-2018 09:07:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/index.php on line 8
+[11-Mar-2018 09:07:24 UTC] PHP Warning:  Division by zero in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/index.php on line 9
+[11-Mar-2018 09:46:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 32
+[11-Mar-2018 09:46:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 36
+[11-Mar-2018 09:46:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 43
+[11-Mar-2018 09:46:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 44
+[11-Mar-2018 09:46:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 45
+[11-Mar-2018 09:46:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 53
+[11-Mar-2018 09:46:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 54
+[11-Mar-2018 09:46:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 55
+[11-Mar-2018 09:46:18 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 62
+[11-Mar-2018 09:46:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 32
+[11-Mar-2018 09:46:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 36
+[11-Mar-2018 09:46:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 43
+[11-Mar-2018 09:46:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 44
+[11-Mar-2018 09:46:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 45
+[11-Mar-2018 09:46:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 53
+[11-Mar-2018 09:46:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 54
+[11-Mar-2018 09:46:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 55
+[11-Mar-2018 09:46:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 62
+[11-Mar-2018 09:46:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 32
+[11-Mar-2018 09:46:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 36
+[11-Mar-2018 09:46:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 43
+[11-Mar-2018 09:46:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 44
+[11-Mar-2018 09:46:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 45
+[11-Mar-2018 09:46:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 53
+[11-Mar-2018 09:46:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 54
+[11-Mar-2018 09:46:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 55
+[11-Mar-2018 09:46:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 62
+[11-Mar-2018 09:47:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 32
+[11-Mar-2018 09:47:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 36
+[11-Mar-2018 09:47:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 43
+[11-Mar-2018 09:47:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 44
+[11-Mar-2018 09:47:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 45
+[11-Mar-2018 09:47:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 53
+[11-Mar-2018 09:47:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 54
+[11-Mar-2018 09:47:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 55
+[11-Mar-2018 09:47:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 62
+[11-Mar-2018 09:47:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 32
+[11-Mar-2018 09:47:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 36
+[11-Mar-2018 09:47:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 43
+[11-Mar-2018 09:47:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 44
+[11-Mar-2018 09:47:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 45
+[11-Mar-2018 09:47:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 53
+[11-Mar-2018 09:47:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 54
+[11-Mar-2018 09:47:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 55
+[11-Mar-2018 09:47:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 62
+[11-Mar-2018 09:49:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 32
+[11-Mar-2018 09:49:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 36
+[11-Mar-2018 09:49:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 43
+[11-Mar-2018 09:49:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 44
+[11-Mar-2018 09:49:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 45
+[11-Mar-2018 09:49:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 53
+[11-Mar-2018 09:49:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 54
+[11-Mar-2018 09:49:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 55
+[11-Mar-2018 09:49:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 62
+[11-Mar-2018 09:49:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 32
+[11-Mar-2018 09:49:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 36
+[11-Mar-2018 09:49:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 43
+[11-Mar-2018 09:49:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 44
+[11-Mar-2018 09:49:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 45
+[11-Mar-2018 09:49:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 53
+[11-Mar-2018 09:49:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 54
+[11-Mar-2018 09:49:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 55
+[11-Mar-2018 09:49:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 62
+[11-Mar-2018 10:45:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 17
+[11-Mar-2018 10:45:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 17
+[11-Mar-2018 10:45:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 17
+[11-Mar-2018 10:47:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 17
+[11-Mar-2018 10:47:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 17
+[11-Mar-2018 10:47:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 17
+[11-Mar-2018 10:49:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 17
+[11-Mar-2018 10:49:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 17
+[11-Mar-2018 10:49:14 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /Users/deepavarma/Sites/WebsiteBuilder/Udemy-social/register.php on line 17
